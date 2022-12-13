@@ -1,0 +1,6 @@
+POST http://localhost:3000/sum-awesome
+Content-Type: application/json
+
+{
+  "number":15
+}
